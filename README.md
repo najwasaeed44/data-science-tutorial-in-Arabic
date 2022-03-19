@@ -31,7 +31,7 @@
 <br>
 
 1- [أسهل نموذج تعلم آلة يمكنك البدء به](https://github.com/najwasaeed44/data-science-tutorial-in-Arabic/blob/main/notebooks/data_science_tutorial_in_Arabic_0.ipynb)
-، وهنا تجد [رابط المقال] ()
+، وهنا تجد [رابط المقال](https://najwasaeed44.github.io/najwa/blog/post-1/)
 
 
 <br><br>
